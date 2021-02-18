@@ -26,8 +26,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/sitholewb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitholewb&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sitholewb&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitholewb&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sitholewb&theme=radical&layout=compact" />
 </a>
 </p>
 
