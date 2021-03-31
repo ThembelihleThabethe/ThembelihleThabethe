@@ -1,4 +1,4 @@
-### Hi there, i'm Welcome Bonginhlahla Sithole. 👋
+### Hi there, i'm Thembelihle Thabethe. 👋
 
 ### 💻 &nbsp;About Me 
 
