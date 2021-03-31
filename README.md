@@ -3,31 +3,25 @@
 ### 💻 &nbsp;About Me 
 
  🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.\
- 🎓 &nbsp; Bsc Hons Computer Science, University Of KwaZulu Natal.\
+ 🎓 &nbsp; Dip-Information Technology (Software Development) , Mangosuthu University of Technology.\
  💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
- 📄 &nbsp;Please have a look at my [Résumé](https://sitholewb.github.io/my-resume) for more details about me. I'm open to feedback and suggestions!
+ 📄 &nbsp;Please have a look at my [Résumé](https://thembelihlethabethe.github.io) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
 
-  ![C#](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp)
-  ![C#](https://img.shields.io/badge/-.Net%20Framework-blue?style=flat&logo=csharp)
-  ![C#](https://img.shields.io/badge/-.Net%20Core-007ACC?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 ## My Stats
 <p>
-<a href="https://github.com/sitholewb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitholewb&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sitholewb&theme=radical&layout=compact" />
+<a href="https://github.com/thembelihlethabethe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thembelihlethabethe&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thembelihlethabethe&theme=radical&layout=compact" />
 </a>
 </p>
 
