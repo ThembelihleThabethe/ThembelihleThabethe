@@ -29,9 +29,9 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sitholewb"><img src="https://img.shields.io/badge/-Welcome%20Sithole-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/sitholewb"><img src="https://img.shields.io/badge/-%40sitholewb-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sitholewb"><img src="https://img.shields.io/badge/-%40sitholewb-blue?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://za.linkedin.com/in/thembelihle-nzama-b646a2162"><img src="https://img.shields.io/badge/-Thembelihle%20Nzama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/nana_elihle/"><img src="https://img.shields.io/badge/-%40nana_elihle-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/thembelihle.nzama"><img src="https://img.shields.io/badge/-%40thembelihle.nzama-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
